@@ -3,7 +3,7 @@ import{S as d,i as n,s as c,e as u,a as m,n as o,d as g}from"./vendor.e457f58f.j
       <div class="text-5xl font-semibold text-white mt-20">Action that integrates your Github and Asana.</div> 
       <div class="mt-16"></div> 
 
-      <div class="flex"><a href="https://github.com/TheDotLabs/github-asana-action" target="_blank" class="text-white bg-blue-600 hover:bg-blue-700 py-3 px-5 rounded-md inline-flex cursor-pointer"><i class="material-icons mr-2">view_in_ar</i>Visit Marketplace</a> 
+      <div class="flex"><a href="https://github.com/marketplace/actions/github-asana-action" target="_blank" class="text-white bg-blue-600 hover:bg-blue-700 py-3 px-5 rounded-md inline-flex cursor-pointer"><i class="material-icons mr-2">view_in_ar</i>Visit Marketplace</a> 
 
         <a href="https://github.com/TheDotLabs/github-asana-action" target="_blank" class="ml-6 text-white bg-gray-800 hover:bg-gray-700 py-3 px-5 rounded-md inline-flex cursor-pointer"><i class="material-icons mr-2">code</i>Source Code</a></div> 
 
