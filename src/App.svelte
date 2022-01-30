@@ -18,13 +18,14 @@
       </div>
       <div class="mt-16" />
 
-      <a class="flex"  href="https://github.com/TheDotLabs/github-asana-action"
-      target="_blank">
-        <div
+      <div class="flex">
+        <a
+          href="https://github.com/TheDotLabs/github-asana-action"
+          target="_blank"
           class="text-white bg-blue-600 hover:bg-blue-700 py-3 px-5 rounded-md inline-flex cursor-pointer"
         >
           <i class="material-icons mr-2">view_in_ar</i>Visit Marketplace
-        </div>
+        </a>
 
         <a
           href="https://github.com/TheDotLabs/github-asana-action"
@@ -33,7 +34,7 @@
         >
           <i class="material-icons mr-2">code</i>Source Code
         </a>
-      </a>
+      </div>
 
       <div class="mt-20 flex justify-center">
         <div
