@@ -2,6 +2,8 @@
 
 Github Asana Action Website built with SvelteJs and Tailwindcss.
 
+Visit here for [Github Asana Action](https://github.com/TheDotLabs/github-asana-action)
+
 <img src="./res/s1.png" alt="img"/>
 
 ## Getting Started

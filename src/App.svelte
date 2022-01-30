@@ -83,6 +83,14 @@
           href="https://github.com/TheDotLabs/github-asana-action">README.md</a
         >
       </div>
+      <div class="text-white font-bold text-2xl mt-16">Blog</div>
+      <a
+        href="https://apgapg.medium.com/integrate-asana-and-github-part-1-51c04b288c04"
+        target="_blank"
+        class="mt-8 text-white bg-gray-800 hover:bg-gray-700 py-3 px-5 rounded-md inline-flex cursor-pointer"
+      >
+        <i class="material-icons mr-2">rss_feed</i>View Blog at Medium.com
+      </a>
       <div class="text-white text-center mt-8 opacity-70">
         ⒸTheDotLabs. All Rights Reserved
       </div>
