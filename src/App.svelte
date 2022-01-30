@@ -20,7 +20,7 @@
 
       <div class="flex">
         <a
-          href="https://github.com/TheDotLabs/github-asana-action"
+          href="https://github.com/marketplace/actions/github-asana-action"
           target="_blank"
           class="text-white bg-blue-600 hover:bg-blue-700 py-3 px-5 rounded-md inline-flex cursor-pointer"
         >
